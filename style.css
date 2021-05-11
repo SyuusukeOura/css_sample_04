@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+    background-image : url("images/p_pt_0011_m_pt_00110.jpg");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: aqua;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color:　white;
+    color: black;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : white;
+    color: black;
+}
